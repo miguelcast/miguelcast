@@ -1,6 +1,6 @@
 {
   "name": "miguelcast",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A personal card for Miguel Cast",
   "main": "index.js",
   "bin": {
@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Miguel Castrillon <miguel2@outlook.com> (https://miguelcast.github.io)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
