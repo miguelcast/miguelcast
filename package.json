@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/miguelcast/bitandbang.git"
+    "url": "https://github.com/miguelcast/miguelcast.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
