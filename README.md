@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React and web ecosystem**
 
-- 📫 How to reach me **miguel@outlook.com**
+- 📫 How to read me [miguelcast.dev](https://miguelcast.dev)
 
 <p align="center">
 <a href="https://codepen.io/https://codepen.io/miguelcast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/miguelcast" height="20" width="20" /></a>
