@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Ayenda](https://ayenda.com)
 
-- 🌱 I’m currently learning **Web performance**
-
 - 💬 Ask me about **React and web ecosystem**
 
 - 📫 How to reach me **miguel@outlook.com**
