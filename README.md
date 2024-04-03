@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelcast" alt="miguelcast" /> </p>
 
-- 🔭 I’m currently working on [Ayenda](https://ayenda.com)
+- 🔭 I’m currently #OpenToWork
 
-- 💬 Ask me about **React and web ecosystem**
+- 💬 Ask me about **React, React Native and web ecosystem**
 
 - 📖 How to read me [miguelcast.dev](https://miguelcast.dev)
 
